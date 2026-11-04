@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://example.com/",
+    "title": "Acme Bike Repair, workshop for commuter bikes",
+    "h1": "Bike repair with the price told first",
+    "description": "Fixed-price bike repairs in two working days from a three-person workshop.",
+    "headings": ["What we repair", "How a job works"],
+    "text": "Acme fixes chains, brakes, gears and tyres. We tell you the price before we start. Bring your bike in or book a slot online."
+  },
+  {
+    "url": "https://example.com/services/basic-service",
+    "title": "Basic bike service",
+    "h1": "Basic bike service",
+    "description": "An hour-long check of brakes, gears and tyre pressure at a fixed price.",
+    "headings": ["What is included"],
+    "text": "The basic service covers brakes, gears, chain wear and a check of every safety bolt. It takes about an hour."
+  },
+  {
+    "url": "https://example.com/services/electric-bike-service",
+    "title": "Electric bike service and checks",
+    "h1": "Electric bike service",
+    "description": "Service for e-bikes with a standard drive unit.",
+    "headings": ["Battery contacts", "Error logs"],
+    "text": "We check the battery contacts and read the error log when the drive unit keeps one. We do not open sealed motors."
+  },
+  {
+    "url": "https://example.com/blog/how-to-fix-a-flat-tyre",
+    "title": "How to fix a flat tyre in ten minutes",
+    "h1": "How to fix a flat tyre",
+    "description": "Step by step guide to patching or replacing an inner tube.",
+    "headings": ["Tools you need", "Step by step"],
+    "text": "Remove the wheel, lever off the tyre, find the puncture, patch or swap the tube and refit. Check the inside of the tyre for the cause."
+  },
+  {
+    "url": "https://example.com/pricing",
+    "title": "Bike repair pricing",
+    "h1": "Pricing",
+    "description": "Fixed prices for the most common repairs.",
+    "headings": ["Service prices", "Parts"],
+    "text": "A basic service costs a fixed amount. Parts are charged at shop price. The cost of a repair is quoted before we start."
+  },
+  {
+    "url": "https://example.com/blog/brake-pad-replacement-guide",
+    "title": "Brake pad replacement guide",
+    "h1": "Brake pad replacement guide",
+    "description": "How to tell when pads are worn and how to swap them.",
+    "headings": ["Signs of wear", "Swapping pads"],
+    "text": "Look at the wear line on the pad. If the groove has gone, replace both pads on that wheel. Adjust the caliper after fitting."
+  },
+  {
+    "url": "https://example.com/blog/choosing-a-commuter-bike",
+    "title": "Choosing a commuter bike",
+    "h1": "Choosing a commuter bike",
+    "description": "What to look for in a bike for daily travel.",
+    "headings": ["Frame", "Gears"],
+    "text": "The best commuter bike is the one you will actually ride in rain. Look for mudguards, a chain guard and a rack. Weight matters less than reliability."
+  },
+  {
+    "url": "https://example.com/about",
+    "title": "About the Acme workshop",
+    "h1": "About the workshop",
+    "description": "Who we are.",
+    "headings": ["Our mechanics", "The shop"],
+    "text": "We keep a small bike storage room for customers who leave bikes over a long weekend. The workshop is open on weekdays."
+  },
+  {
+    "url": "https://example.com/contact",
+    "title": "Contact Acme",
+    "h1": "Contact and booking",
+    "description": "Email, phone and location.",
+    "headings": [],
+    "text": "Email us or call during opening hours."
+  }
+]

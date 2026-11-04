@@ -1,0 +1,5 @@
+{
+  "topicsFile": "fixtures/topics.csv",
+  "pagesFile": "fixtures/pages.json",
+  "format": "json"
+}

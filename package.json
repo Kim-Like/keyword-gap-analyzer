@@ -1,0 +1,13 @@
+{
+  "name": "keyword-gap-analyzer",
+  "version": "1.0.0",
+  "description": "Compare a list of target topics with the pages a site already has and get missing pages, weak intent matches and quick wins. Works from local files, no paid SEO data.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Kim Like",
+  "engines": { "node": ">=20" },
+  "bin": { "keyword-gap": "bin/keyword-gap.mjs" },
+  "main": "src/index.mjs",
+  "scripts": { "test": "node --test" },
+  "keywords": ["seo", "keyword-mapping", "content-gap", "cli"]
+}

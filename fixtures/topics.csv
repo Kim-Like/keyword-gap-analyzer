@@ -1,0 +1,15 @@
+keyword,volume,priority,intent,group,target
+bike repair,1900,high,,,
+basic bike service,720,medium,,,
+electric bike service,480,medium,,,
+how to fix a flat tyre,1300,medium,,,
+bike repair cost,880,high,,,
+brake pad replacement,390,medium,transactional,,
+best commuter bike,1100,medium,,,
+mobile bike repair,590,high,,,
+mobile bike mechanic,260,low,,,
+e-bike battery replacement,320,medium,,,
+bike storage,210,low,,,
+bike repair near me,1600,high,,,
+wheel truing,170,low,,,
+kids bike repair,140,low,,,/kids-bikes
